@@ -1,0 +1,1459 @@
+Min,Max,Modal PriceBangalore from 01-Jan-2020To07-Jun-2025 (Total-66) (Total-66)<div>
+	<table class="tableagmark_new" cellspacing="2" cellpadding="2" align="Center" rules="all" border="1" id="cphBody_GridPriceData" style="font-size:0.9em;font-weight:normal;text-decoration:none;width:99%;">
+		<tr style="color:White;background-color:DarkGray;font-weight:bold;">
+			<th scope="col">Sl no.</th><th scope="col">District Name</th><th scope="col">Market Name</th><th scope="col">Commodity</th><th scope="col">Variety</th><th scope="col">Grade</th><th scope="col">Min Price (Rs./Quintal)</th><th scope="col">Max Price (Rs./Quintal)</th><th scope="col">Modal Price (Rs./Quintal)</th><th scope="col">Price Date</th>
+		</tr><tr>
+			<td>
+                                                1
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_0">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_0">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_0">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_0">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_0">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_0">7500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_0">9500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_0">8500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_0">04 Jan 2022</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                2
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_1">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_1">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_1">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_1">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_1">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_1">7500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_1">11500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_1">9500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_1">13 Oct 2022</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                3
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_2">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_2">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_2">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_2">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_2">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_2">8000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_2">11000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_2">9500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_2">08 Sep 2020</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                4
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_3">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_3">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_3">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_3">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_3">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_3">31000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_3">34000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_3">32500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_3">09 Sep 2020</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                5
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_4">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_4">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_4">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_4">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_4">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_4">32000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_4">38000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_4">35000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_4">05 Jun 2020</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                6
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_5">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_5">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_5">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_5">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_5">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_5">32000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_5">38000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_5">35000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_5">10 Aug 2020</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                7
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_6">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_6">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_6">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_6">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_6">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_6">32000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_6">38000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_6">35000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_6">23 Jul 2020</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                8
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_7">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_7">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_7">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_7">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_7">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_7">32000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_7">38000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_7">35000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_7">23 Jun 2020</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                9
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_8">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_8">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_8">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_8">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_8">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_8">33000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_8">38000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_8">35500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_8">03 Apr 2020</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                10
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_9">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_9">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_9">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_9">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_9">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_9">33000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_9">38000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_9">35500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_9">08 Apr 2020</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                11
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_10">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_10">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_10">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_10">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_10">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_10">33000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_10">38000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_10">35500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_10">09 Mar 2020</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                12
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_11">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_11">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_11">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_11">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_11">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_11">33000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_11">38000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_11">35500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_11">10 Jan 2020</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                13
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_12">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_12">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_12">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_12">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_12">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_12">33000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_12">38000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_12">35500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_12">13 Feb 2020</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                14
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_13">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_13">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_13">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_13">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_13">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_13">33000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_13">38000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_13">35500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_13">18 Apr 2020</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                15
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_14">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_14">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_14">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_14">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_14">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_14">33000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_14">38000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_14">35500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_14">18 Jan 2020</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                16
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_15">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_15">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_15">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_15">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_15">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_15">33000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_15">38000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_15">35500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_15">28 Apr 2020</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                17
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_16">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_16">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_16">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_16">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_16">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_16">33000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_16">40000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_16">36500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_16">06 Nov 2020</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                18
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_17">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_17">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_17">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_17">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_17">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_17">33000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_17">40000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_17">36500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_17">18 Dec 2020</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                19
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_18">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_18">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_18">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_18">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_18">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_18">35000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_18">41000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_18">38000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_18">04 Feb 2021</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                20
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_19">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_19">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_19">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_19">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_19">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_19">35000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_19">42000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_19">38500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_19">22 Feb 2021</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                21
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_20">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_20">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_20">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_20">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_20">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_20">48000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_20">50000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_20">49000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_20">18 Apr 2023</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                22
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_21">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_21">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_21">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_21">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_21">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_21">49500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_21">55000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_21">52250</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_21">16 Dec 2022</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                23
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_22">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_22">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_22">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_22">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_22">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_22">49500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_22">55000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_22">52250</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_22">17 Dec 2022</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                24
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_23">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_23">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_23">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_23">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_23">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_23">50000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_23">54000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_23">52000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_23">14 Jul 2022</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                25
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_24">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_24">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_24">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_24">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_24">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_24">51000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_24">55000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_24">53000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_24">13 Feb 2023</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                26
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_25">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_25">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_25">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_25">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_25">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_25">51000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_25">55000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_25">53000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_25">24 Feb 2023</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                27
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_26">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_26">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_26">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_26">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_26">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_26">51000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_26">58000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_26">54500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_26">02 Jun 2023</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                28
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_27">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_27">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_27">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_27">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_27">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_27">51500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_27">60000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_27">55750</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_27">26 Sep 2022</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                29
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_28">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_28">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_28">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_28">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_28">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_28">52000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_28">60000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_28">56000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_28">19 Jul 2022</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                30
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_29">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_29">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_29">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_29">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_29">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_29">52500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_29">60000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_29">56250</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_29">22 Nov 2023</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                31
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_30">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_30">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_30">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_30">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_30">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_30">52500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_30">60000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_30">56250</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_30">27 Nov 2023</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                32
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_31">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_31">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_31">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_31">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_31">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_31">53000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_31">58000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_31">55500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_31">08 Nov 2024</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                33
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_32">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_32">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_32">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_32">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_32">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_32">53000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_32">58000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_32">55500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_32">18 Apr 2024</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                34
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_33">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_33">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_33">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_33">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_33">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_33">53000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_33">58000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_33">55500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_33">23 Jun 2022</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                35
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_34">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_34">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_34">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_34">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_34">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_34">53000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_34">59000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_34">56000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_34">12 Aug 2022</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                36
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_35">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_35">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_35">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_35">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_35">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_35">54000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_35">56000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_35">55000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_35">11 Mar 2024</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                37
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_36">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_36">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_36">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_36">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_36">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_36">54000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_36">56000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_36">55000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_36">27 Mar 2024</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                38
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_37">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_37">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_37">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_37">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_37">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_37">54000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_37">58000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_37">56000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_37">01 Jul 2023</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                39
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_38">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_38">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_38">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_38">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_38">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_38">54000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_38">58000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_38">56000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_38">03 Jul 2023</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                40
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_39">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_39">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_39">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_39">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_39">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_39">54000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_39">58000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_39">56000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_39">05 Jul 2023</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                41
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_40">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_40">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_40">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_40">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_40">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_40">54000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_40">58000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_40">56000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_40">13 Jul 2023</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                42
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_41">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_41">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_41">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_41">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_41">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_41">54000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_41">58500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_41">56250</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_41">09 Jun 2023</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                43
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_42">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_42">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_42">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_42">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_42">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_42">54000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_42">58500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_42">56250</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_42">16 Jun 2023</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                44
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_43">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_43">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_43">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_43">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_43">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_43">54000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_43">58500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_43">56250</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_43">17 Jun 2023</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                45
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_44">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_44">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_44">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_44">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_44">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_44">55000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_44">62000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_44">58500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_44">10 May 2022</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                46
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_45">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_45">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_45">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_45">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_45">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_45">55000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_45">62000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_45">58500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_45">13 May 2022</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                47
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_46">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_46">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_46">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_46">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_46">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_46">56000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_46">64000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_46">60000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_46">13 May 2024</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                48
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_47">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_47">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_47">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_47">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_47">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_47">58000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_47">78000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_47">68000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_47">01 Apr 2023</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                49
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_48">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_48">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_48">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_48">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_48">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_48">60000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_48">69000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_48">64500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_48">28 May 2024</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                50
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_49">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_49">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_49">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_49">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_49">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_49">60000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_49">69000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_49">64500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_49">29 May 2024</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                51
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_50">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_50">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_50">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_50">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_50">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_50">60000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_50">72000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_50">66000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_50">02 Jan 2024</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                52
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_51">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_51">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_51">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_51">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_51">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_51">60000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_51">72000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_51">66000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_51">26 Dec 2023</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                53
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_52">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_52">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_52">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_52">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_52">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_52">62000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_52">64000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_52">63000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_52">18 Jan 2025</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                54
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_53">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_53">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_53">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_53">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_53">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_53">62000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_53">70000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_53">66000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_53">18 Feb 2022</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                55
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_54">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_54">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_54">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_54">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_54">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_54">63000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_54">68000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_54">65500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_54">29 Jan 2024</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                56
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_55">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_55">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_55">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_55">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_55">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_55">65000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_55">70000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_55">67500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_55">20 Feb 2024</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                57
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_56">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_56">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_56">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_56">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_56">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_56">65000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_56">70000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_56">67500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_56">21 Feb 2024</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                58
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_57">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_57">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_57">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_57">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_57">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_57">66000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_57">78000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_57">72000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_57">21 Sep 2023</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                59
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_58">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_58">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_58">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_58">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_58">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_58">66000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_58">78000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_58">72000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_58">25 Oct 2023</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                60
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_59">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_59">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_59">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_59">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_59">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_59">74000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_59">77000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_59">75500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_59">13 Aug 2024</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                61
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_60">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_60">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_60">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_60">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_60">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_60">75000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_60">85000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_60">80000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_60">10 Jul 2024</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                62
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_61">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_61">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_61">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_61">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_61">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_61">75000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_61">85000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_61">80000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_61">15 Jul 2024</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                63
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_62">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_62">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_62">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_62">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_62">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_62">75000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_62">85000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_62">80000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_62">19 Jun 2024</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                64
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_63">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_63">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_63">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_63">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_63">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_63">75000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_63">85000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_63">80000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_63">20 Jul 2024</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                65
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_64">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_64">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_64">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_64">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_64">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_64">75000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_64">85000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_64">80000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_64">20 Jun 2024</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                66
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_65">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_65">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_65">Black pepper</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_65">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_65">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_65">75000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_65">85000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_65">80000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_65">22 Jul 2024</span>
+                                </td>
+		</tr>
+	</table>
+</div>
